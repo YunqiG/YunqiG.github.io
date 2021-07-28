@@ -1,123 +1,61 @@
+> I am currently a Ph.D. student in the Department of Computer Science, UCLA, advised by Prof. Songwu Lu. I obtained my M.S. degree from UCLA in 2018 and my B.S. degree from Shanghai Jiao Tong University (SJTU) in 2016.
+
+My research interests lie in edge computing, internet of things(IoT), augmented reality(AR), and network security. I am also passionate about digital art. I want to blend my expertise in computer networking systems with art to improve interactive media applications.
+
 ---
-layout: default
+
+## Experience
+
+Summer 2019 & 2020, Research Intern @ **IBM Research** - Yorktown NY
+
+- Implemented attention DNN models for multivariate time-series data classification.
+
+Summer 2017, Machine Learning Engineer @ **Sohu** - Beijing
+
+- Contributed to news recommendation system afor the mobile platform.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Software & Project
 
-[Link to another page](./another-page.html).
+**MobileInsight**
 
-There should be whitespace between paragraphs.
+[MobileInsight](http://www.mobileinsight.net/) spurs in-phone mobile network intelligence. It provides mobile and desktop versions for 4G/5G analysis. MobileInsight is free and publicly available on [GitHub](https://github.com/mobile-insight).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**TinyGraphics.js**
 
-# Header 1
+[tiny-graphics.js](https://github.com/intro-graphics/tiny-graphics-js) is an open-source library that refactors common WebGL steps and provides a simple interface for students to learn graphics and WebGL. It is actively maintained and has been used by 1000+ CG students - V2 will be available by September 2021!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**AceMap**
 
-## Header 2
+[AceMap](https://www.acemap.info/) is an academic search engine visualizing the relations of papers, topics, and authors based on large metadata. This search engine unfolds the trends in academia and scholar relations to the researchers.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Publication & Patent
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Experience: a Five-Year Retrospective of MobileInsight [*MobiCom'21*]**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Yuanjie Li, Chunyi Peng, Zhehui Zhang, Zhaowei Tan, Haotian Deng, Jinghao Zhao, Qianru Li, **Yunqi Guo**, Kai Ling, Boyan Ding, Hewu Li, Songwu Lu
 
-#### Header 4
+**Towards Model-Centric Security for IoT Systems [*ICCCN'20 Invited paper*]**
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Yunqi Guo**, Zhaowei Tan, Songwu Lu
 
-##### Header 5
+**AceMap: A Novel Approach towards Displaying Relationship among Academic Literatures [*WWW'16 Workshop on Big Scholarly Data*]**
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Zhaowei Tan, Changfeng Liu, Yuning Mao, Jiaming She, **Yunqi Guo**, Xinbing Wang
 
-###### Header 6
+**Determining Multivariate Time Series Data Dependencies [*US Patent App.*]**
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Xuan-Hong Dang, **Yunqi Guo**, Syed Yousaf Shan, Petros Zerfos
 
-### There's a horizontal rule below this.
+---
 
-* * *
+## Teaching
 
-### Here is an unordered list:
+**CS174 -** Introduction to Computer Graphics ([slides](https://github.com/luckiday/cs174a-1a-2021s), [tools](https://github.com/intro-graphics/tiny-graphics-js))
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+**CS180 -** Introduction to Algorithms and Complexity
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**CS211 -** Network Protocol and Systems Software Design for Wireless and Mobile
