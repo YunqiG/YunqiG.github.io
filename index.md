@@ -11,7 +11,7 @@ Summer 2019 & 2020, Research Intern @ **IBM Research** - Yorktown NY\
 
 
 Summer 2017, Machine Learning Engineer @ **Sohu** - Beijing\
-*Contributed to news recommendation system afor the mobile platform.*
+*Contributed to news recommendation system for the mobile platform.*
 
 ---
 
@@ -46,8 +46,6 @@ Xuan-Hong Dang, **Yunqi Guo**, Syed Yousaf Shan, Petros Zerfos
 
 # Teaching
 
-**CS174 -** Introduction to Computer Graphics ([slides](https://github.com/luckiday/cs174a-1a-2021s), [tools](https://github.com/intro-graphics/tiny-graphics-js))
-
-**CS180 -** Introduction to Algorithms and Complexity
-
-**CS211 -** Network Protocol and Systems Software Design for Wireless and Mobile
+- **CS174 -** Introduction to Computer Graphics ([slides](https://github.com/luckiday/cs174a-1a-2021s), [tools](https://github.com/intro-graphics/tiny-graphics-js))
+- **CS180 -** Introduction to Algorithms and Complexity
+- **CS211 -** Network Protocol and Systems Software Design for Wireless and Mobile
