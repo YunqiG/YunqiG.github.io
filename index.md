@@ -4,7 +4,7 @@
 
 ---
 
-## Experience
+# Experience
 
 Summer 2019 & 2020, Research Intern @ **IBM Research** - Yorktown NY\
 *Implemented attention DNN models for multivariate time-series data classification.*
@@ -15,20 +15,20 @@ Summer 2017, Machine Learning Engineer @ **Sohu** - Beijing\
 
 ---
 
-## Software & Project
+# Software & Project
 
-**MobileInsight**\
+### **MobileInsight**
 [MobileInsight](http://www.mobileinsight.net/) spurs in-phone mobile network intelligence. It provides mobile and desktop versions for 4G/5G analysis. MobileInsight is free and publicly available on [GitHub](https://github.com/mobile-insight).
 
-**TinyGraphics.js**\
+### **TinyGraphics.js**
 [tiny-graphics.js](https://github.com/intro-graphics/tiny-graphics-js) is an open-source library that refactors common WebGL steps and provides a simple interface for students to learn graphics and WebGL. It is actively maintained and has been used by 1000+ CG students - V2 will be available by September 2021!
 
-**AceMap**\
+### **AceMap**
 [AceMap](https://www.acemap.info/) is an academic search engine visualizing the relations of papers, topics, and authors based on large metadata. This search engine unfolds the trends in academia and scholar relations to the researchers.
 
 ---
 
-## Publication & Patent
+# Publication & Patent
 
 **Experience: a Five-Year Retrospective of MobileInsight [*MobiCom'21*]**\
 Yuanjie Li, Chunyi Peng, Zhehui Zhang, Zhaowei Tan, Haotian Deng, Jinghao Zhao, Qianru Li, **Yunqi Guo**, Kai Ling, Boyan Ding, Hewu Li, Songwu Lu
@@ -44,7 +44,7 @@ Xuan-Hong Dang, **Yunqi Guo**, Syed Yousaf Shan, Petros Zerfos
 
 ---
 
-## Teaching
+# Teaching
 
 **CS174 -** Introduction to Computer Graphics ([slides](https://github.com/luckiday/cs174a-1a-2021s), [tools](https://github.com/intro-graphics/tiny-graphics-js))
 
